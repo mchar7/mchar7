@@ -1,6 +1,5 @@
 ![Banner image](./resources/mchar7_banner.png)
 
-## Hi there 👋
 - 🔭 I’m currently working on:
   - [Litter](https://github.com/mchar7/litter), a Spring Boot-based (backend-only for now) API for a Twitter-like social media site.
   - Dovimux, a Python script to automate the remuxing and manipulation of Dolby Vision files.
