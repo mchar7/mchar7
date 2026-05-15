@@ -1,8 +1,7 @@
 ![Banner](./resources/mchar7_banner.webp)
 
 Backend services, Infrastructure-as-Code, and Linux are where most of my
-time goes.
-
+time goes.<br>
 Recent Computer Programming graduate, Ottawa-based.
 
 ## What I reach for
@@ -17,27 +16,31 @@ Recent Computer Programming graduate, Ottawa-based.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 
-### Backend & data
+### Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-1E6FBA?style=flat-square&logo=jakartaee&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-1E6FBA?style=flat-square&logo=eclipseide&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis/Valkey](https://img.shields.io/badge/Redis%2FValkey-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-
-### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://custom-icon-badges.demolab.com/badge/Zustand-433E38?style=flat-square&logo=database&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Infrastructure
+### Databases & communications
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Redis/Valkey](https://img.shields.io/badge/Redis%2FValkey-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+![REST APIs](https://custom-icon-badges.demolab.com/badge/REST%20APIs-005571?style=flat-square&logo=globe&logoColor=white)
+![gRPC](https://custom-icon-badges.demolab.com/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### Infrastructure & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -47,18 +50,16 @@ Recent Computer Programming graduate, Ottawa-based.
 ![Flux](https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=flux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTUuNDgzIDIxLjNIMjRMMTQuMDI1IDQuMDU0bC0zLjAzOCA4LjU4MyA1LjUyNyA2Ljc1Nkw0Ljk0IDIxLjNoLjU0M3pNMTAuMjMyIDUuNjU0TDIuNCAxMi4zNDYgMCAxOS45MTZsNS44MjEtMS4wMzl6Ii8+PC9zdmc+&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### AI / ML
 
 ![LangChain/LangGraph](https://img.shields.io/badge/LangChain%2FLangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![LightGBM](https://custom-icon-badges.demolab.com/badge/LightGBM-02569B?style=flat-square&logo=flowchart&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![llama.cpp](https://custom-icon-badges.demolab.com/badge/llama.cpp-FF6B6B?style=flat-square&logo=cpu&logoColor=white)
 ![OpenCode](https://custom-icon-badges.demolab.com/badge/OpenCode-FF6E15?style=flat-square&logo=terminal&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 ## Recent personal projects
 
